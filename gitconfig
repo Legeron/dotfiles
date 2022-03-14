@@ -49,3 +49,5 @@
 [user]
 	email = legeronflo@hotmail.fr
 	name = florent legeron
+[credential]
+	helper = osxkeychain
