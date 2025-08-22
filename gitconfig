@@ -48,6 +48,6 @@
   mergeoptions = --no-edit
 [user]
 	email = legeronflo@hotmail.fr
-	name = florent legeron
+	name = Legeron Florent
 [credential]
 	helper = osxkeychain
